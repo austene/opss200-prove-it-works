@@ -1,7 +1,7 @@
 # ops200-prove-it-works
 
 ## Purpose of Program
-Creates a simple mortgage calculator to confirm that the test suite created in tutorial works correct.
+Creates a simple mortgage calculator to confirm that the test suite created in tutorial works correctly.
 
 ## Setup
 
