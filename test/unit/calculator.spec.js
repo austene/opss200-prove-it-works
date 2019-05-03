@@ -7,6 +7,7 @@ describe('Calculator', () => {
   beforeEach(() => {
     calculator = new Calculator();
   });
+
   // Add function
   it('should have an add function', () => {
     expect(calculator.add).to.exist;
